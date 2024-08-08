@@ -1,0 +1,19 @@
+DineEase Showcase Website - Home Page
+
+Hero Section:
+DineEase: Exceptional Dining Awaits.
+
+Dive into culinary wonders with DineEase. We curate top-rated restaurants, each with distinct flavors and ambiance. From international dishes to traditional delights and gastronomic adventures, find your perfect spot with DineEase.
+
+Featured Restaurants:
+Discover Unforgettable Dining Destinations
+
+Link text: View restaurant »
+
+Footer:
+- Privacy Policy
+
++36 30 123 4567
+support@dineease.com
+
+© 2024 - All rights reserved
